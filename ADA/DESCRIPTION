@@ -1,0 +1,14 @@
+Package: ADA
+Type: Package
+Title: Data Analysis Package For Project: 'Annex 86'
+Version: 0.1.0
+Author: Graß Tobias Simon
+Maintainer: The package maintainer <tobias.grass@student.uibk.ac.at>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: 
+    Formula
